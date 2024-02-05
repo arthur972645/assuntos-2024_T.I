@@ -1,0 +1,29 @@
+/* body{
+    background-color: rgb(188, 236, 224);
+}
+#caixe-centro{
+    background-color: rgba(83, 168, 242, 0.855);
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 200px;
+    border-radius: 40px;
+    display: flex;
+}
+#cauculoIMC{
+   margin: 0 auto;
+   margin-top: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#peso{
+    margin-top: 200px;
+    margin-right: 100px;
+}
+#altura{
+    margin-top: 250px;
+    margin-left: -300px;
+}
+#butao{
+    margin-top: 350px;
+    margin-left: -30px;
+} */

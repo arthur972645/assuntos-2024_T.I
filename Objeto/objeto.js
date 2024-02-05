@@ -18,5 +18,5 @@ let pessoa = {
         return 'Ol, mundo'
     }
 }
-const endereco = (elementos) => console.log(elementos.tipo)
+const endereco = (elementos) => console.log(elementos)
 pessoa.endereco.map(endereco) // pessoa. endereco é tipo vc chamando o array 
