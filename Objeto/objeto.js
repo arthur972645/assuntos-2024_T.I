@@ -1,6 +1,9 @@
 let pessoa = {
-    nome: 'arthur'
+    nome: 'Arthur',
     idade: 17,
-    altura: 1.84
-};
+    altura: 1.84,
+    saudacao(){
+        return 'Ol, mundo'
+    }
+}
 console.log(pessoa.nome)
