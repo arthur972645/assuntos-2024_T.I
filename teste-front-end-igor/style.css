@@ -1,5 +1,4 @@
 body{
-    border: 1px solid black;
     height: 100vh;
     margin: 0;
     display: flex;
@@ -13,6 +12,9 @@ body{
     height: 400px;
     width: 300px;
     border-radius: 15px;
+    @media screen {
+        
+    }
 }
 .caixaTitulo{
    display: flex;
