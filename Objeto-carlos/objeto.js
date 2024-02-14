@@ -18,5 +18,6 @@ let pessoa = {
         return 'Ol, mundo'
     }
 }
+console.log(pessoa.saudacao)
 const endereco = (elementos) => console.log(elementos)
 pessoa.endereco.map(endereco) // pessoa. endereco é tipo vc chamando o array 
