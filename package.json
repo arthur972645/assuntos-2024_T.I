@@ -1,0 +1,25 @@
+{
+  "name": "assuntos-2024_t.i-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur972645/assuntos-2024_T.I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur972645/assuntos-2024_T.I/issues"
+  },
+  "homepage": "https://github.com/arthur972645/assuntos-2024_T.I#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
